@@ -1,0 +1,13 @@
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\obj\Debug\netcoreapp3.1\excepciones_example.csprojAssemblyReference.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\obj\Debug\netcoreapp3.1\excepciones_example.AssemblyInfoInputs.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\obj\Debug\netcoreapp3.1\excepciones_example.AssemblyInfo.cs
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\obj\Debug\netcoreapp3.1\excepciones_example.csproj.CoreCompileInputs.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\bin\Debug\netcoreapp3.1\excepciones_example.exe
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\bin\Debug\netcoreapp3.1\excepciones_example.deps.json
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\bin\Debug\netcoreapp3.1\excepciones_example.runtimeconfig.json
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\bin\Debug\netcoreapp3.1\excepciones_example.runtimeconfig.dev.json
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\bin\Debug\netcoreapp3.1\excepciones_example.dll
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\bin\Debug\netcoreapp3.1\excepciones_example.pdb
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\obj\Debug\netcoreapp3.1\excepciones_example.dll
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\obj\Debug\netcoreapp3.1\excepciones_example.pdb
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\excepciones_example\excepciones_example\obj\Debug\netcoreapp3.1\excepciones_example.genruntimeconfig.cache
